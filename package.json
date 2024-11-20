@@ -1,0 +1,5 @@
+{
+    "name": "AWSEc2",
+    "private": true,
+    "dependencies": {}
+}
